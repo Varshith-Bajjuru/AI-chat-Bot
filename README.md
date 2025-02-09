@@ -1,8 +1,43 @@
-# React + Vite
+# AI Chat Bot
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This guide will help you clone and run the AI Chat Bot project locally.
 
-Currently, two official plugins are available:
+## Prerequisites
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Ensure you have the following installed on your system:
+- [Node.js](https://nodejs.org/) (Latest LTS version recommended)
+- [Git](https://git-scm.com/)
+
+## Clone the Repository
+
+```sh
+git clone https://github.com/Varshith-Bajjuru/AI-chat-Bot.git
+```
+
+## Navigate to the Project Directory
+
+```sh
+cd AI-chat-Bot
+```
+
+## Install Dependencies
+
+```sh
+npm install
+```
+
+## Start the Development Server
+
+```sh
+npm run dev
+```
+
+## Open in Browser
+
+Once the server is running, open your browser and go to:
+
+```
+http://localhost:3000
+```
+
+Enjoy building with AI Chat Bot! 🎉
