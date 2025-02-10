@@ -52,7 +52,7 @@ const App = () => {
                     {messages.map((message, i) => (
                         <div
                             key={i}
-                            className={`p-3 my-2 rounded-lg max-w-xl ${
+                            className={`p-3 my-2 rounded-3xl max-w-xl ${
                                 message.isUser
                                     ? "bg-blue-500 text-white self-end ml-auto"
                                     : "bg-gray-700 text-gray-200 self-start"
